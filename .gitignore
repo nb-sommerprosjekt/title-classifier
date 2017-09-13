@@ -1,0 +1,10 @@
+*.txt
+*.pckl
+*.bin
+*documentation/
+*data/
+logs-test_meta100_filtered/        
+logs-test_meta2_filtered/    
+*__pycache__
+*.idea
+logs*
